@@ -85,13 +85,13 @@ This is where stage 3 begins and the intensity need to be rise up to the max. Th
 ![!](DocImages/Molecule.drawio.png)
 
 ### 3.2. Level Map – Section 1
-![!](DocImages/Stage_1.JPG)
+![!](DocImages/Stage1.JPG)
 
 ### 3.3.	Level Map – Section 2
-![!](DocImages/Stage_2.JPG)
+![!](DocImages/Stage2.JPG)
 
 ### 3.4.	Level Map – Section 3
-![!](DocImages/Stage_3.JPG)
+![!](DocImages/Stage3.JPG)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
