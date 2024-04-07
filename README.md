@@ -111,7 +111,7 @@ In the beggining, I started a prototype by drawing a simple layout of how the le
 But this design is not encourage the theme of exploration which is the core theme that I want to focus on in this level. Therefore, I end up create a middle section that laid on the right of the 1st stage and on the bottom of the last stage. This desgin has allow more spaces and opportunities for player to explore and not playing through one-way level from left to right. 
 There's also many small changes through iterative design. 
 
-![!](DocImages/Section1Staff.png!)
+![!](DocImages/Section1Staff.png)
 
 For examples, the location of weapon pick-up has changed to near some chompers since the game doesn't have inventory UI; it is hard for player to keep track of what they having. By forcing them to use the item right after pickup the item, so that it more straightforward for the player to understand what they just picked up. Furthurmore a lot of unesscessary platform has been removed which seem to create confusion on player's understanding of the level layout. 
 
