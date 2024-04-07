@@ -3,21 +3,30 @@
 ### Name: Khuu Chi Cuong
 ### Student number: 46803513
 
-## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+## 1. Player Experience 
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-The player will learn different inputs and any encounter that exists in the game. By dividing into 3 different stages, we can effectively make the player's learning curve 
+
+The player will learn different inputs and any encounter that exists in the game. By dividing into 3 different stages, we can effectively make the player's learning curve going up slowly. The goal of this level is to introduce player to new mechanics yet also challenge player in later sections of the level. In the first stage, it is a simple stage which the goal is to introduce movement specs, and new mechanics to the players
+
+![In this photo, the player is introduced with spikes and have to learn how to jump and traverse through them!](DocImages/Section1Spike.png)
+
+In the Second stage, player have to try a bit harder to avoid damage and traverse through the second stage. In this stage, the player will apply their movement that they learned to a new level as the same time getting use to new mechanics that the game has to offer. 
+
+![In stage 2, the player have to use what they had learned and collect objects in restricted space !](DocImages/Section1PassThrougPlatform.png)
+
+In the Third stage, this is the stage where player need to focus and use what they learned to traverse through multiple hard sections.
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+The more the play explore into the level, the more intense gameplay it is for the player to experience. In stage 1 of the level, player will be introduced and allowed to get to use to different control-buttons. Most of the challenges in stage 1 will leads to a health pick-up and a dead end situation; this forces the player to take 2-3 seconds to head to the next challenges, hence, it will create an invisible momments of relief for the players and allow them to reinforce the knowledge they learned in previous challenges. In stage 2, the game will introduce more challenging encounters but this stage is focused on discovery and puzzle since i located this stage in the middle of the level. Therefore, the player will experience and understand the full map layout while expereince stage 2. In this stage, the instense and the difficulty will rise when the player have to face a number of enemy in a restricsted space. An easy puzzle is also included in this stage to introduce player to a different aspect of the game; hence, create another moment of relief after intense encounters.
 
-The more the play explore into the level, the more intense gameplay it is for the player to experience. In stage 1 of the level, player will be introduced and allowed to get to use to different control-buttons. Most of the challenges in stage 1 will leads to a health pick-up and a dead end situation; this forces the player to take 2-3 seconds to head to the next challenges, hence, it will create an invisible momments of relief for the players and allow them to reinforce the knowledge they learned in previous challenges. In stage 2, the game will introduce more challenging encounters but this stage is focused on discovery and puzzle since i located this stage in the middle of the level. Therefore, the player will experience and understand the full map layout while expereince stage 2. In this stage, the instense and the difficulty will rise when the player have to face a number of enemy in a restricsted space. An easy puzzle is also included in this stage to introduce player to a different aspect of the game; hence, create another moment of relief after intense encounters. In stage 3, the intensity will be pushed to the top with different challenging encounters such as enimies and parkour area forced player to focus to be able to pass this level. 
+![In this stage, the player have to solve a puzzle and face enemies before rewarded with new items !](DocImages/Section1TP.png)
+
+In stage 3, the intensity will be pushed to the top with different challenging encounters such as enimies and parkour area forced player to focus to be able to pass this level. 
+
+![The player have to use everthing that the learned throughout the level to traverse through many enimies !](DocImages/Section1Spitter.png)
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
-
 There are 5 challenges in the game:
 1st avoid spikes
 2nd kill gromper
@@ -25,21 +34,21 @@ There are 5 challenges in the game:
 4th parkour through encouters
 5th kill spitter
 
-The difficulty is devided into 3 stages according to esay, medium, and hard. In stage 1, most of the challenges focused on introduce player to control buttons. Hence the difficaulty to tuned down to easy, by providing obvious solution, and many health pick-up. The difficulty will be unted to medium when player have to deal with enemy in tight and restricted space. In this stage, most of gampley is till introduce player to harder encounters and mechanics. In stage 2, the goal is still to help players develop their full understanding on tools that are available to them. At the end of stage 2, player will learn most of the mechanics avaiable and provided a long relief period for player to reinforce their knowledge, before heading to the most challenging stage. In stage 3, the player need to apply different skills such as timing and quick-reflects. 
+The difficulty is devided into 3 stages according to esay, medium, and hard. In stage 1, most of the challenges focused on introduce player to control buttons. Hence the difficaulty to tuned down to easy, by providing obvious solution, and many health pick-up. 
+
+![The player is facing chompers and they just picked up an item. This creates a clear solution to use that item for the chompers !](DocImages/Section1Staff.png)
+
+The difficulty will be unted to medium when player have to deal with enemy in tight and restricted space. In this stage, most of gampley is till introduce player to harder encounters and mechanics. In stage 2, the goal is still to help players develop their full understanding on tools that are available to them. At the end of stage 2, player will learn most of the mechanics avaiable and provided a long relief period for player to reinforce their knowledge, before heading to the most challenging stage. In stage 3, the player need to apply different skills such as timing and quick-reflects. 
+
+![In this stage, player have to focus on their timing and their movement  !](DocImages/Section1Acid.png)
 
 
 ### 1.4. Exploration
 
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 The level is designed with exploration in mind so negative spaces are in most the stages, and due to the play-time limit 5-6 mintues. So i decide to make stage 2 is a bridge help players to gain a grapse of what the whole level looks like and where to find the last key. PLayer also have the options to not explore and try to focus on complete the stage by ignore some of the encounters, but it will limit the loot that player gain. 
 
 
-## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
+## 2. Core Gameplay
 
 ### 2.1. Spikes
 ![!](DocImages/Spike.jpg)
@@ -77,7 +86,7 @@ This is where stage 3 begins and the intensity need to be rise up to the max. Th
 
 ### 2.8. Spitters
 ![!](DocImages/Spitter.JPG)
-
+Spitter is a great ending for the levels since it harder to deal with than a chomper and the projectiles which may supprise players that come unprepare.
 
 ## 3. Spatiotemporal Design
 
