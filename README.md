@@ -3,18 +3,6 @@
 ### Name: Khuu Chi Cuong
 ### Student number: 46803513
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
@@ -55,23 +43,33 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Spikes
 ![!](DocImages/Spike.jpg)
+
 I choose the spikes to be the first encounter to help player get use to the movement tech (such as jump, long jump). It is also in the first stage so it should be straight forward. But spikes also used through out the level to rise the instensity of the gameplay by combining with other encounters
 
 ### 2.2. Move Moving Platform
 ![!](DocImages/MovingPlatform.jpg)
+
 Moving platform is introduced in stage 1 as a tools to explore the level. This is a simple encounter that help the player understand how moving platform works. Hence it also used in stage 3 to test the player timing and quick reaction.
 
 ### 2.3. Health Pickup and Key
 ![!](DocImages/HealthPickup&Key.jpg)
 
+Health Pick-up and key is introduced in the middle of stage 1. It will introduce player to the main goal of the level early on of the level. Therefore, player will understand the level main task and forced to explore for more key. 
+
 ### 2.4. Weapon Pickup (staff) and Chomper
 ![!](DocImages/WeaponPickUpStaff&Chomper.jpg)
+
+Weapon (staff) is introduced right in front of enemies so that player will be less likely to be confused of what they just interacted with. Chomper is the best encounters at the end of stage one to alert and rise player anttention for the next two stage; since stage 1 are on the easiest level. This creates a feeling of danger waiting a head of them
 
 ### 2.5. Move Through Platform
 ![!](DocImages/MovethroughPlatform.jpg)
 
+At the begging of stage 2, move through platform is the fist encounter player will faced, but in this stage the difficulty will be tuned up a bit, and player have to work with tight spaces and aggressive chompers while interact with move through platform
+
 ### 2.6. Teleport-door and Weapon Pickup(Gun)
 ![!](DocImages/Teleport.jpg)
+
+The teleport door is introduced in this stage to introduce player to more advanced encounters for later on level. This is also an option path that player can choose to ignore since it doesn't affect the abitlity to complete the level of the player. But the player will be awarded with a Gun and health point if they choose to exlpore futher into the stage. 
 
 ### 2.7. Checkpoint and Acid
 ![!](DocImages/CheckPoint&Acid.jpg)
