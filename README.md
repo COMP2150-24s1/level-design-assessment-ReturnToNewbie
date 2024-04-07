@@ -73,7 +73,7 @@ The teleport door is introduced in this stage to introduce player to more advanc
 
 ### 2.7. Checkpoint and Acid
 ![!](DocImages/CheckPoint&Acid.jpg)
-This is where stage 3 begins and the intensity need to be rise up to the max. Therefore I think acid is the best suit for this sitatuion. A large area full of acid and the only way to advance forward is to jump on 2 different moving platform. If they fall they will forced to return to the cehckpoint. 
+This is where stage 3 begins and the intensity need to be rise up to the max. Therefore I think acid is the best suit for this sitatuion. A large area full of acid and the only way to advance forward is to jump on 2 different moving platform. If they fall they will forced to return to the checkpoint. 
 
 ### 2.8. Spitters
 
