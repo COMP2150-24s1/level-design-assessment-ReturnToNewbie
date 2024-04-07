@@ -73,16 +73,15 @@ The teleport door is introduced in this stage to introduce player to more advanc
 
 ### 2.7. Checkpoint and Acid
 ![!](DocImages/CheckPoint&Acid.jpg)
+This is where stage 3 begins and the intensity need to be rise up to the max. Therefore I think acid is the best suit for this sitatuion. A large area full of acid and the only way to advance forward is to jump on 2 different moving platform. If they fall they will forced to return to the cehckpoint. 
 
 ### 2.8. Spitters
 
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
 ### 3.1. Molecule Diagram
+![!](DocImages/Molecule.drawio.png)
 
 ### 3.2. Level Map – Section 1
 
