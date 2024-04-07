@@ -102,28 +102,27 @@ Spitter is a great ending for the levels since it harder to deal with than a cho
 ### 3.4.	Level Map – Section 3
 ![!](DocImages/Stage3.JPG)
 
-## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+## 4. Iterative Design 
+
+In the beggining, I started a prototype by drawing a simple layout of how the level will be exucted. It would had 3 sepreate sections and each sections will increase in difficulty from the left to right. 
+
+![Early stage prototype!](DocImages/image_123650291.JPG)
+
+But this design is not encourage the theme of exploration which is the core theme that I want to focus on in this level. Therefore, I end up create a middle section that laid on the right of the 1st stage and on the bottom of the last stage. This desgin has allow more spaces and opportunities for player to explore and not playing through one-way level from left to right. 
+There's also many small changes through iterative design. 
+
+![!](DocImages/Section1Staff.png!)
+
+For examples, the location of weapon pick-up has changed to near some chompers since the game doesn't have inventory UI; it is hard for player to keep track of what they having. By forcing them to use the item right after pickup the item, so that it more straightforward for the player to understand what they just picked up. Furthurmore a lot of unesscessary platform has been removed which seem to create confusion on player's understanding of the level layout. 
+
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+![!](DocImages/Section1TP.png)
+The puzzle in stage 2 can be improved sicne it feel too straight forward. In stage 3 , where player encounter spitter can aslo be improved by tune up the difficulty by adding more obstacels or platform for player to parkour though the level. 
+
 ## Generative AI Use Acknowledgement
-
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
-
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
-
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
+No AI is used in this project
 
 **Additional Notes:** Example Text
 
