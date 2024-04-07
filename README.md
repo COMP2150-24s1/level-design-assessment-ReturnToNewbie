@@ -20,15 +20,31 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+The player will learn different inputs and any encounter that exists in the game. By dividing into 3 different stages, we can effectively make the player's learning curve 
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+The more the play explore into the level, the more intense gameplay it is for the player to experience. In stage 1 of the level, player will be introduced and allowed to get to use to different control-buttons. Most of the challenges in stage 1 will leads to a health pick-up and a dead end situation; this forces the player to take 2-3 seconds to head to the next challenges, hence, it will create an invisible momments of relief for the players and allow them to reinforce the knowledge they learned in previous challenges. In stage 2, the game will introduce more challenging encounters but this stage is focused on discovery and puzzle since i located this stage in the middle of the level. Therefore, the player will experience and understand the full map layout while expereince stage 2. In this stage, the instense and the difficulty will rise when the player have to face a number of enemy in a restricsted space. An easy puzzle is also included in this stage to introduce player to a different aspect of the game; hence, create another moment of relief after intense encounters. In stage 3, the intensity will be pushed to the top with different challenging encounters such as enimies and parkour area forced player to focus to be able to pass this level. 
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
+There are 5 challenges in the game:
+1st avoid spikes
+2nd kill gromper
+3rd solve puzzle
+4th parkour through encouters
+5th kill spitter
+
+The difficulty is devided into 3 stages according to esay, medium, and hard. In stage 1, most of the challenges focused on introduce player to control buttons. Hence the difficaulty to tuned down to easy, by providing obvious solution, and many health pick-up. The difficulty will be unted to medium when player have to deal with enemy in tight and restricted space. In this stage, most of gampley is till introduce player to harder encounters and mechanics. In stage 2, the goal is still to help players develop their full understanding on tools that are available to them. At the end of stage 2, player will learn most of the mechanics avaiable and provided a long relief period for player to reinforce their knowledge, before heading to the most challenging stage. In stage 3, the player need to apply different skills such as timing and quick-reflects. 
+
+
 ### 1.4. Exploration
+
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+The level is designed with exploration in mind so negative spaces are in most the stages, and due to the play-time limit 5-6 mintues. So i decide to make stage 2 is a bridge help players to gain a grapse of what the whole level looks like and where to find the last key. PLayer also have the options to not explore and try to focus on complete the stage by ignore some of the encounters, but it will limit the loot that player gain. 
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -37,27 +53,31 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Spikes
+![!](DocImages/Spike.jpg)
+I choose the spikes to be the first encounter to help player get use to the movement tech (such as jump, long jump). It is also in the first stage so it should be straight forward. But spikes also used through out the level to rise the instensity of the gameplay by combining with other encounters
 
-### 2.2. Checkpoints
+### 2.2. Move Moving Platform
+![!](DocImages/MovingPlatform.jpg)
+Moving platform is introduced in stage 1 as a tools to explore the level. This is a simple encounter that help the player understand how moving platform works. Hence it also used in stage 3 to test the player timing and quick reaction.
 
-### 2.3. Chompers
+### 2.3. Health Pickup and Key
+![!](DocImages/HealthPickup&Key.jpg)
 
-### 2.4. Health Pickups
+### 2.4. Weapon Pickup (staff) and Chomper
+![!](DocImages/WeaponPickUpStaff&Chomper.jpg)
 
-### 2.5. Keys
+### 2.5. Move Through Platform
+![!](DocImages/MovethroughPlatform.jpg)
 
-### 2.6. Moving Platforms
+### 2.6. Teleport-door and Weapon Pickup(Gun)
+![!](DocImages/Teleport.jpg)
 
-### 2.7. Passthrough Platforms
+### 2.7. Checkpoint and Acid
+![!](DocImages/CheckPoint&Acid.jpg)
 
-### 2.8. Spikes
+### 2.8. Spitters
 
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
